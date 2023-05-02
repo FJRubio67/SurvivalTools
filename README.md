@@ -14,4 +14,9 @@ An R package for simulating times to event from a Kaplan-Meier (KM) estimator of
 
 1. [KMSim (R Package)](https://github.com/FJRubio67/KMSim)
 
+## SimLT (R package)
+
+The `SimLT` R package allows for simulating times to event, based on the information in a life table. 
+
+1. [SimLT (R package)](https://github.com/FJRubio67/SimLT)
 
