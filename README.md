@@ -8,4 +8,10 @@ The Nelson-Aalen estimator is a non-parametric estimator of the cumulative hazar
 
 1. [The Nelson-Aalen estimator](https://rpubs.com/FJRubio/NelsonAalen)
 
+## KMSim (R Package)
+
+An R package for simulating times to event from a Kaplan-Meier (KM) estimator of a survival function, based on a sample of times to event (either for the entire sample, a subgroup, or an individual).
+
+1. [KMSim (R Package)](https://github.com/FJRubio67/KMSim)
+
 
