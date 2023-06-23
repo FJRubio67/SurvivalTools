@@ -25,3 +25,7 @@ The `SimLT` R package allows for simulating times to event, based on the informa
 The `HazReg` R package implements the following parametric hazard-based regression models for (overall) survival data.
 
 1. [HazReg (R package)](https://github.com/FJRubio67/HazReg)
+
+## SurvLT: Calculating survival probabilities from a Life Table
+
+1. [SurvLT](https://github.com/FJRubio67/SurvLT)
