@@ -29,3 +29,10 @@ The `HazReg` R package implements the following parametric hazard-based regressi
 ## SurvLT: Calculating survival probabilities from a Life Table
 
 1. [SurvLT](https://github.com/FJRubio67/SurvLT)
+
+
+## The Cox Proportional Hazards Model
+
+The following R code shows an (probably suboptimal) implementation of the log partial likelihood function as well as three real-data examples illustrating the calculation of the MPLE (using the command `optim()`). A comparison with the results obtained using the `survival` R package is also presented.
+
+1. [The Cox Proportional Hazards Model and the Partial Likelihood function](https://rpubs.com/FJRubio/CPHM)
